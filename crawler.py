@@ -2,7 +2,7 @@ import json
 from time import sleep
 import vk
 
-ACC_TOKEN = '97b8fe3113b4bb8c88e5d8e1dd103aaafa67d37103a55e2e65be3ecc42cfc1538c96176418f7deeedbc80'
+ACC_TOKEN = 'xxxxxxx-vk_access_token-xxxxxxxxx'
 VER = '5.64'
 
 TASK_IDS = {
@@ -11,16 +11,8 @@ TASK_IDS = {
 }
 
 STOP_WORDS = [
-    'хех',
-    'ну',
-    'бл',
-    'бля',
-    'сук',
-    'ок',
-    'илюша',
-    'илья',
-    'марина',
-    'марин',
+    'стопслово1',
+    'стопслово2',
 ]
 
 
